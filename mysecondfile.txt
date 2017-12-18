@@ -2,6 +2,6 @@ line 1
 line 2 
 line 3
 line 4
-line 5 pizza help
-fix from help branch
+line 5 pizza help Jonathan changing line 5
+fix from help branch yep, change is done and logic is good!!!
 my first pull request for feature2
